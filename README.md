@@ -49,11 +49,6 @@ Me especializo en la construcción de aplicaciones web y APIs, con enfoque en ef
 
 ---
 
-## Actividad
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gmzyy&theme=github-compact)
-
----
-
 ## Repositorios destacados
 <a href="https://github.com/gmzyy/kanban-api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gmzyy&repo=kanban-api&theme=transparent" />
