@@ -45,6 +45,12 @@ Me especializo en la construcción de aplicaciones web y APIs, con enfoque en ef
 ## Estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=gmzyy&show_icons=true&theme=transparent&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmzyy&layout=compact&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=gmzyy&theme=transparent&hide_border=true)
+
+---
+
+## Actividad
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gmzyy&theme=github-compact)
 
 ---
 
@@ -67,6 +73,11 @@ Me especializo en la construcción de aplicaciones web y APIs, con enfoque en ef
 <a href="https://github.com/gmzyy/BarberProyecto">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gmzyy&repo=BarberProyecto&theme=transparent" />
 </a>
+
+---
+
+## Trofeos
+![Trophies](https://github-profile-trophy.vercel.app/?username=gmzyy&theme=flat&no-frame=true&margin-w=5)
 
 ---
 
