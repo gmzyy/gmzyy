@@ -72,4 +72,4 @@ Me especializo en la construcción de aplicaciones web y APIs, con enfoque en ef
 
 ## Contacto
 - GitHub: [github.com/gmzyy](https://github.com/gmzyy)  
-- Email: angeljsjsj@gmail.com  
+- Email: angeljsjsjbdd@gmail.com  
