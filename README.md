@@ -1,24 +1,31 @@
 # Angel Gómez García — gmzyy
-Desarrollador de software (Frontend + Backend + Bases de Datos)  
-Puebla, México
+Desarrollador de software (Frontend · Backend · Bases de Datos · Data)  
+Puebla, México  
 
 [![Profile views](https://komarev.com/ghpvc/?username=gmzyy&style=flat)](https://github.com/gmzyy)
-[![Follow](https://img.shields.io/github/followers/gmzyy?label=Seguidores&style=flat)](https://github.com/gmzyy?tab=followers)
+[![Followers](https://img.shields.io/github/followers/gmzyy?label=Seguidores&style=flat)](https://github.com/gmzyy?tab=followers)
 [![Stars](https://img.shields.io/github/stars/gmzyy?label=Stars%20totales&style=flat)](https://github.com/gmzyy?tab=repositories)
 [![Last update](https://img.shields.io/badge/Última%20actualización-Auto-blue.svg)](#)
 
 ---
 
 ## Sobre mí
-- Experiencia en desarrollo con **React, Next.js, TypeScript/JavaScript, C#, PHP**.  
-- Modelos **MVC**, creación de **APIs REST** y **CRUDs** eficientes.  
-- Bases de datos: **MySQL** y **MongoDB**.  
-- Metodologías ágiles, control de versiones con **Git**.
+Soy desarrollador de software con experiencia en **Frontend, Backend y Bases de Datos**, además de proyectos con **Python para análisis de datos** y **Kotlin**.  
+Me especializo en la construcción de aplicaciones web y APIs, con enfoque en eficiencia, escalabilidad y buenas prácticas.  
+
+- Experiencia con **React, Next.js, Tailwind y TypeScript** en el frontend.  
+- Desarrollo backend con **C#, Node.js y PHP** (MVC, REST APIs, CRUDs).  
+- Creación y despliegue de **APIs** (ejemplo: [kanban-api](https://github.com/gmzyy/kanban-api), desplegada en Railway con BD).  
+- Manejo de **MySQL** y **MongoDB**.  
+- Proyectos de **data cleaning con Python + Pandas**.  
+- Conocimientos en **Kotlin** para desarrollo de aplicaciones.  
+- Trabajo bajo metodologías ágiles (**Scrum y Kanban**).  
 
 ---
 
 ## Tecnologías
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -42,7 +49,6 @@ Puebla, México
 ---
 
 ## Repositorios destacados
-<!-- Puedes cambiar los nombres de repo si decides destacar otros -->
 <a href="https://github.com/gmzyy/kanban-api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gmzyy&repo=kanban-api&theme=transparent" />
 </a>
@@ -65,7 +71,5 @@ Puebla, México
 ---
 
 ## Contacto
-- GitHub: https://github.com/gmzyy  
-- Email: angeljsjsj@gmail.com
-  
-
+- GitHub: [github.com/gmzyy](https://github.com/gmzyy)  
+- Email: angeljsjsj@gmail.com  
